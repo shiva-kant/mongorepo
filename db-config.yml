@@ -6,7 +6,7 @@ spring:
     name: restaurant
   data:
     mongodb:
-      uri: mongodb://localhost:27017/swigy
+      uri: mongodb://localhost:27017/zomato
 eureka:
   client:
     register-with-eureka: true
